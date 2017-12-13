@@ -10,13 +10,13 @@ style: """
   widget-align = left
 
   // Position this where you want
-  top 10px
-  left 10px
+  top 20px
+  right 20px
 
   // Statistics text settings
   color #fff
   font-family Helvetica Neue
-  background rgba(#000, .5)
+  background rgba(#000, 0)
   padding 10px 10px 15px
   border-radius 5px
 
